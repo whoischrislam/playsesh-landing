@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+}
+
+.page-container {
+    margin: 0 auto;
+    width: 570px;
+}
+
+#hero-img {
+    width: 100%;
+}
